@@ -6,6 +6,12 @@ Este repositorio se ha creado para la realización y entrega de la práctica 1 d
 ## Miembros del equipo
 La práctica ha sido realizada de manera individual por Helene Jordan Parize.
 
-## Ficheros del código
+## Ficheros del repositorio
+- src/main.py: código de ejecución de web scraping.
+- pdf/hjordanp_prac1.pdf: respuesta a los puntos de enunciado de la Práctica 1.
+- csv/yearly_hot_100_chart.csv: archivo csv con los datos del web scraping. 
 
 ## Recursos
+- Masip, D. El lenguaje Python. Editorial UOC.
+- Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
+- Oheix, J (2018). An introduction to web scraping with Python. Link: https://towardsdatascience.com/an-introduction-to-web-scraping-with-python-a2601e8619e5
