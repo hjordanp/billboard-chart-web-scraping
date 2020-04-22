@@ -1,4 +1,4 @@
-# Práctica 1: Web Scraping - Hot 100 Song Chart Billboard
+# Web Scraping - Hot 100 Song Chart Billboard
 
 ## Description
 This repository was created for the university project on the subject Life's Cycle and Tipology of Data (UOC's University). Inside this repository we can find the files related to the web scraping of the yearly Hot 100 Billboard Chart. 
